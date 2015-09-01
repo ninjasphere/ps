@@ -9,7 +9,7 @@ import (
 	"log"
 	"math"
 
-	"github.com/llgcode/draw2d"
+	"github.com/ninjasphere/draw2d"
 )
 
 //Path Construction Operators
